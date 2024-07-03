@@ -11,8 +11,8 @@ The dataset used in this project is provided in two `.mat` files:
 - `Real_Test_Data.mat`
 
 Each file contains the following:
-- `training_candidates`: The input features for training the model.
-- `training_responses`: The S-parameter responses corresponding to the training candidates.
+- `candidates`: The input features for training the model.
+- `responses`: The S-parameter responses corresponding to the training candidates.
 - `real_test_candidates`: The input features for testing the model.
 - `real_test_responses`: The actual S-parameter responses for the test candidates.
 
