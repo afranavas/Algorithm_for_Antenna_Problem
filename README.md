@@ -24,7 +24,7 @@ Data preprocessing is a crucial step that ensures the input data is in the corre
    The data is loaded from the `.mat` files using the `scipy.io.loadmat` function, which reads MATLAB files and returns a dictionary containing all variables.
 
 2. **Extracting Relevant Data:**  
-   The relevant data arrays, such as `training_candidates`, `training_responses`, `real_test_candidates`, and `real_test_responses`, are extracted from the loaded data.
+   The relevant data arrays, such as `candidates`, `responses`, `real_test_candidates`, and `real_test_responses`, are extracted from the loaded data.
 
 3. **Normalization:**  
    The input features are normalized to have a mean of 0 and a standard deviation of 1. This step is critical because it ensures that the features contribute equally to the model's predictions and improves the convergence of the training algorithm.
