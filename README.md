@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project aims to predict S-parameter responses, specifically the S11 parameter, using a hybrid Artificial Neural Network (ANN) and Support Vector Machine (SVM) model. S-parameters, or scattering parameters, describe how RF signals behave in multi-port networks and are fundamental in antenna design and analysis. Accurate prediction of these parameters is essential for optimizing the performance of antennas.
+This assignment aims to predict S-parameter responses, specifically the S11 parameter, using a hybrid Artificial Neural Network (ANN) and Support Vector Machine (SVM) model. S-parameters, or scattering parameters, describe how RF signals behave in multi-port networks and are fundamental in antenna design and analysis. Accurate prediction of these parameters is essential for optimizing the performance of antennas.
 
 ## Dataset
 
@@ -80,4 +80,4 @@ The results demonstrate the effectiveness of the hybrid ANN-SVM model in predict
 
 ## Conclusion
 
-In conclusion, this project successfully implements a hybrid ANN-SVM model to predict S-parameter responses. The model combines the feature extraction capabilities of ANNs with the predictive power of SVMs to achieve accurate results. Future work may involve exploring different model architectures, tuning hyperparameters, and incorporating additional data for further improvements.
+In conclusion, this assignment successfully implements a hybrid ANN-SVM model to predict S-parameter responses. The model combines the feature extraction capabilities of ANNs with the predictive power of SVMs to achieve accurate results. Future work may involve exploring different model architectures, tuning hyperparameters, and incorporating additional data for further improvements.
